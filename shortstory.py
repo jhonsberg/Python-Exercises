@@ -1,7 +1,7 @@
 """
 Title: Short Story Generator
 Name: Jonah Honsberger
-Date: 10/28/2022 [MM-DD-YYYY]
+Date: 09/10/2022 [MM-DD-YYYY]
 """
 
 
